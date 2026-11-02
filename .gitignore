@@ -1,0 +1,15 @@
+# secrets — the single most important line in the repo
+.env
+.env.*
+!.env.example
+
+# his own documents: keep the folder, never the contents
+data/raw/*
+!data/raw/.gitkeep
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

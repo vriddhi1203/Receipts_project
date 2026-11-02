@@ -1,0 +1,1 @@
+#### this tells what belongs in raw folder, what are the documents ingested
